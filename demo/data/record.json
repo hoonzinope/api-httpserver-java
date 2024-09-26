@@ -1,0 +1,17 @@
+[
+    {
+        "tag" : "user",
+        "name" : "hoonzi",
+        "mail" : "test@gmail.com"
+    },
+    {
+        "tag":"dev",
+        "name":"park",
+        "mail":"devTest@gmail.com"
+    },
+    {
+        "tag":"admin",
+        "name":"admin",
+        "mail":"admin@gmail.com"
+    }
+]
